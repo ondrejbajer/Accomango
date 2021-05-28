@@ -1,0 +1,17 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://accomango.com/</loc>
+    <priority>1.0</priority> //1.0 necháme všude
+    <changefreq>daily</changefreq> //daily necháme všude
+   </url>
+  <url>
+    <loc>https://accomango.com/booking/</loc>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+    <image:image> //Jen pokud, mají sránky nějaký přiřazený obrázek, ale myslím si, že tady žádné nebudou, takže můžete případně vynechat. Pokud však někde v adminu definujete obrázek stránky, můžeme ho sem vložit :). 
+    <image:loc>IMAGE_URL</image:loc>
+    <image:caption/>
+    <image:title>ALTERNATIVNÍ_POPIS NEBO NÁZEV STRÁNKY(TITLE)</image:title>
+    </image:image>
+  </url>
+</urlset>
