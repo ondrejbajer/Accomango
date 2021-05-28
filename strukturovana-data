@@ -5,6 +5,7 @@
 		"@context": "http://schema.org",
 		"@type": "WebSite",
 		"url": "https://accomango.com/",
+		"sameAs":"https://www.linkedin.com/company/accomango/",
 		"name": "Accomango",
 		"description": "Accomango přináší nejrychlejší způsob, jak ubytovat Vaše firemní pracovníky na pár kliků."
 		}
