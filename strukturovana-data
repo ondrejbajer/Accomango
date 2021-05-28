@@ -6,15 +6,23 @@
 		"@type": "WebSite",
 		"url": "https://accomango.com/",
 		"name": "Accomango",
-		"description": "Accomango přináší nejrychlejší způsob, jak ubytovat Vaše firemní pracovníky na pár kliků.",
-		"author": {
-			"@type": "Organization",
-			"name": "Accomango",
-			"url": "https://accomango.com/",
-			"logo": "https://accomango.com/django_static/img/logo.svg",
-			"foundingDate": "2020-07-07T01:00:00+0000"
+		"description": "Accomango přináší nejrychlejší způsob, jak ubytovat Vaše firemní pracovníky na pár kliků."
 		}
-		}
+	}
+  </script>
+  <script type="application/ld+json">
+	{
+		"@context":"https://schema.org",
+		"@type":"Organization",
+		"name":"Accomango",
+		"url":"https://accomango.com/",
+		"logo":"https://accomango.com/django_static/img/logo.svg",
+		"contactPoint":{
+			"@type":"ContactPoint",
+			"telephone":"+420720070686",
+			"email":"podpora@accomango.com",
+			"contactType":"customer service"
+			}
 	}
 </script>
   ...
